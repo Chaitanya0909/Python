@@ -1,0 +1,36 @@
+# Questions
+1. Read all the three datasets with dataframe names as:
+        covid_dataset
+        covid_vaccine_statewise
+        covid_testing_statewise
+
+    
+    
+2. Do a small descriptive analysis for each dataset. Get all the distribution for central tendency and give insights.
+3. How many Quantitative and Qualitative variables are there in each dataset.
+4. Split the Quantative/Qualitative into its sub categories.
+5. Do a state wise analysis and plot top 10 states having most number of positive cases in the month of April,2021.
+6. Get 'Confirmed','Cured','Deaths' and 'Death Percentage' till now for all the data.
+7. Top 10 states with highest number of Confirmed cases in the first wave ie 2020 and second wave 2021.
+8. Which of the above states were worsely affected in first and second wave both.
+9. Top 10 states with least number of Cured cases.
+10. Top 10 states with highest number of Deaths from Feb,2021 to April,2021
+11. Top 10 states with highest of Death percentage in October,2020
+12. Give Monthwise and yearwise record of 
+        Confirmed 	
+        Cured 	
+        Deaths 	
+        Death_percentage
+13. Plot the monthwise data and track increase in cases month by month.
+14. Which state had the highes positive percentage in April, 2021, Jan,2021 and August,2020.
+15. Top 10 states with highest number of Negative cases
+16. Total Individuals Registering for vaccines since Jan,2021.
+17. Male vs Female vaccinated in India till now. Which is more.
+18. Is positivity rate high in Males than females in 2021? Is that same trend there in 2020.
+19. Which vaccines is popular in Males,Females and Transgeneders.
+20. Registered vs actual vaccination doses admnistered till now, what are the top 10 states?
+21. How many % of people are left to get second dosage of vaccine.
+22. What is the trend that you can see in delhi since Jan, 2021?
+        Positivity rate
+        Total Deaths
+        Vaccination
