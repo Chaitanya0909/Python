@@ -1,0 +1,27 @@
+SURVEY DATA QUESTIONS
+
+# mean
+# median
+# variance
+# standard deviation
+# skewness
+# # kurtosis
+
+
+#Read in the survey data
+# Plot hstogram and box plot for the variable Height
+#Plot an histogram with 15 bins and red color
+# What can you say about its distribution?
+
+#Repeat the same for Age
+
+
+#Plot a box plot to show how the height distribution changes by Sex
+# Age distribution by Smoking habbits
+
+
+# Use crosstab to tell How many Male and Females smoke
+# Use bar plot to visualize the same thing(stacked bar plots)
+
+
+# Plot probability distribution of rolling a die two times
